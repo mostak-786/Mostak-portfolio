@@ -26,7 +26,7 @@ export const personalInfo: PersonalInfo = {
     "My primary ambition is to secure a 12-month industrial placement in the UK. I am seeking a role where I can be immersed in professional engineering workflows, collaborate with supportive mentors, absorb industry best practices, and deliver genuine value to team goals."
   ],
   // Contact & Social Profiles (Editable)
-  email: "mostak.laheri@example.com", // Replace with your primary email
+  email: "m.m.laheri@wlv.ac.uk", // University of Wolverhampton email
   githubUrl: "https://github.com/yourusername", // Replace with your GitHub profile URL
   linkedinUrl: "https://linkedin.com/in/yourusername", // Replace with your LinkedIn profile URL
   cvFileName: "cv.pdf", // Place your cv.pdf in the /public folder
