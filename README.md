@@ -224,3 +224,5 @@ This portfolio was designed specifically to showcase:
 - **Academic Foundation**: Core coursework in computer science at the University of Wolverhampton.
 - **Transferable Soft Skills**: Collaboration, time management, and customer service experience gained through genuine employment and group study.
 - **Readiness to Learn**: Growth mindset, proactive learning of industry tools (Git, Python, SQL), and readiness to take on a 12-month UK placement role.
+#   M o s t a k - p o r t f o l i o  
+ 
